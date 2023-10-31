@@ -1,2 +1,2 @@
 # whitelist
-A simple ICE dApp
+A simple ICO dApp
